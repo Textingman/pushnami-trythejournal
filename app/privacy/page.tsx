@@ -48,7 +48,7 @@ export default function PrivacyPage() {
           <p className="mb-6" style={{ color: '#6B7280' }}>
             If you have questions about this Privacy Policy, please contact us at:<br />
             The Journal<br />
-            8 The Green, Ste A, Dover, DE 19901<br />
+            6102 Cherrylawn Cir, Austin, TX 78723<br />
             Email: <a href="mailto:support@trythejournal.com" style={{ color: '#0F766E' }}>support@trythejournal.com</a>
           </p>
         </div>
