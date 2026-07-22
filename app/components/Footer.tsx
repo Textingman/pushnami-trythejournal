@@ -46,8 +46,8 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <p style={{ color: '#99F6E4' }}>support@trythejournal.com</p>
-            <p className="mt-2" style={{ color: '#99F6E4' }}>8 The Green, Ste A, Dover, DE 19901</p>
-            <p className="mt-2" style={{ color: '#99F6E4' }}></p>
+            <p className="mt-2" style={{ color: '#99F6E4' }}>6102 Cherrylawn Cir, Austin, TX 78723</p>
+            <p className="mt-2" style={{ color: '#99F6E4' }}>(512) 998-5886</p>
           </div>
         </div>
         <div className="mt-8 pt-8 text-center" style={{ borderTop: '1px solid #0F766E', color: '#99F6E4' }}>
